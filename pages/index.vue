@@ -16,7 +16,7 @@
               <span class="text-6xl text-lead-yellow">. </span>
             </div>
             <div class="font-thin font-sans text-grey-700 text-left -mt-4">
-              Assistant Manager | Analyst
+              Web Developer In Training
             </div>
           </div>
         </div>
