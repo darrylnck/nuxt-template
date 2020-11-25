@@ -1,6 +1,5 @@
 <template>
-  <div class="bg-greyish-white-1 relative">
-    testing
+  <div class="bg-grayish-white-1 relative">
     <div class="h-screen w-2/3">
       <img
         class="w-full h-full object-cover"
